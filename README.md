@@ -1,4 +1,4 @@
-An art Marketplace https://vokali.art/ made with firebase
+An art Marketplace https://vokali.art/ made with firebase.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
